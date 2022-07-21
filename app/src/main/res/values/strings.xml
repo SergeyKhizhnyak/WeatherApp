@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Weather App</string>
+    <string name="permission_rationale_dialog_title">Permission rationale</string>
+    <string name="permission_rationale_dialog_message"><b>Weather App</b> need Location permission
+        to get your coordinates and give a precise weather forecast for your region</string>
+    <string name="permission_rationale_dialog_button">OK</string>
 </resources>
