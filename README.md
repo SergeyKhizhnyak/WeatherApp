@@ -1,7 +1,7 @@
 # Weather App
 
 ### Description
-It is Weather Forecast application that accepts a geographical coordinate and provivedes a hourly weather forecast for seven days. Time always starts at 0:00 today and contains 168 hours. If user decline location permission or its impossible to get a geographical coordinate, Kyiv coordinates will be used as default. 
+It is a Weather Forecast application that accepts geographical coordinate  and provides an hourly weather forecast for seven days. Time always starts at 0:00 today and contains forecast for 168 hours. If a user declines location permission or it's impossible to get a geographical coordinate, Kyiv coordinates will be used as default.
 
 ## Used tools
 
